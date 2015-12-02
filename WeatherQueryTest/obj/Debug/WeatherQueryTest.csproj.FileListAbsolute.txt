@@ -3,3 +3,4 @@ C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\bin\Debug\W
 C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\bin\Debug\WeatherQueryTest.pdb
 C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\obj\Debug\WeatherQueryTest.exe
 C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\obj\Debug\WeatherQueryTest.pdb
+C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\obj\Debug\WeatherQueryTest.csprojResolveAssemblyReference.cache

@@ -25,6 +25,5 @@ C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\GeoWeatherQuery\bin\Newtonso
 C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\GeoWeatherQuery\bin\NPOI.xml
 C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\GeoWeatherQuery\bin\NPOI.OOXML.xml
 C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\GeoWeatherQuery\bin\NPOI.OpenXml4Net.xml
-C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\GeoWeatherQuery\obj\Debug\GeoWeatherQuery.dll
-C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\GeoWeatherQuery\obj\Debug\GeoWeatherQuery.pdb
-C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\GeoWeatherQuery\obj\Debug\GeoWeatherQuery.csprojResolveAssemblyReference.cache
+C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\GeoWeatherQuery\obj\Release\GeoWeatherQuery.dll
+C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\GeoWeatherQuery\obj\Release\GeoWeatherQuery.pdb

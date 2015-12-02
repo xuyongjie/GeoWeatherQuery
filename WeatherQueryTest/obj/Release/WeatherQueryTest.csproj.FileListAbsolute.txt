@@ -1,0 +1,5 @@
+C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\bin\Release\WeatherQueryTest.exe.config
+C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\bin\Release\WeatherQueryTest.exe
+C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\bin\Release\WeatherQueryTest.pdb
+C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\obj\Release\WeatherQueryTest.exe
+C:\Users\xuyongjie\Documents\GitHub\GeoWeatherQuery\WeatherQueryTest\obj\Release\WeatherQueryTest.pdb
