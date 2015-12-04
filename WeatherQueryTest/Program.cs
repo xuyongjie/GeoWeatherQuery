@@ -15,6 +15,7 @@ namespace WeatherQueryTest
             string s;
             while (true)
             {
+                Console.WriteLine("Input geo location,'0' to quit");
                 s = Console.ReadLine();
                 if (s.Equals("0"))
                 {
@@ -26,7 +27,7 @@ namespace WeatherQueryTest
                 WeatherService.WeatherInfo info = client.GetWeatherByGeo(longitude, latitude);
                 if (info != null)
                 {
-                    Console.WriteLine(string.Format("SuccessOrNot:{0}\nAreaId:{1}\nAreaName:{2}\nRefreshTime:{3}\nWeatherInfo(please refrence the api document in the Doc folder to deserialize):\n{4}",info.Success,info.AreaId,info.AreaName,info.RefreshTime.ToString(),info.WeatherJson));
+                    Console.WriteLine(string.Format("Output\nSuccessOrNot:{0}\nAreaId:{1}\nAreaName:{2}\nRefreshTime:{3}\nWeatherInfo(please refrence the api document in the Doc folder to deserialize):\n{4}",info.Success,info.AreaId,info.AreaName,info.RefreshTime.ToString(),info.WeatherJson));
                 }
             }
         }
